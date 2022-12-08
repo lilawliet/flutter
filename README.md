@@ -1,21 +1,21 @@
 ## 基础知识
 
 ### dart
-`${a}` ==> '$a' or '${a}'<br>
+`/`${a}/`` ==> `'$a' or '${a}'`<br>
 
 
 ### commands
-`package.json ==> pubspec.yarml`<br>
+`package.json` ==> `pubspec.yarml`<br>
 
-`yarn add xxx ==> flutter pub add xxx`<br>
+`yarn add xxx` ==> `flutter pub add xxx`<br>
 
-`yarn ==> flutter pub get `<br>
+`yarn` ==> `flutter pub get `<br>
 
-`npmjs.com ==> https://pub.flutter-io.cn/`<br>
+`npmjs.com` ==> `https://pub.flutter-io.cn/`<br>
 
-`yarn start .. ==> flutter run -d [device id]`<br>
+`yarn start ..` ==> `flutter run -d [device id]`<br>
 
-`yarn cache clean ==> flutter pub cache clean`<br>
+`yarn cache clean` ==> `flutter pub cache clean`<br>
 
 // 查看设备<br>
 `flutter devices`<br>
