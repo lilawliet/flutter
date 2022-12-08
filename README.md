@@ -1,3 +1,5 @@
+# from Web to Flutter
+
 ## 基础知识
 
 ### dart
@@ -50,9 +52,12 @@ vscode 安装 flutter 插件 + 代理 + 设备（笔记本/电脑）开发者模
 // 查看设备<br>
 `flutter devices`<br>
 
-//清理开发缓存<br>
+// 运行时指定对应的device_id(设备id)
+`flutter run -d device_id` <br>
+
+//清理开发缓存 andoird<br>
 `flutter clean`<br>
-`删除 .gradle`<br>
+`删除 .gradle or ./gradlew clean`<br>
 `flutter pub cache clean`<br>
 
 ---
