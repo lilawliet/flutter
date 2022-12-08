@@ -1,7 +1,10 @@
 ## 基础知识
 
 ### dart
+[从 javascript 到 dart](https://dart.cn/guides/language/coming-from/js-to-dart)<br>
 `` `${a}` `` ==> `'$a' or '${a}'`<br>
+
+### flutter
 
 
 ### commands
@@ -17,13 +20,6 @@
 
 `yarn cache clean` ==> `flutter pub cache clean`<br>
 
-// 查看设备<br>
-`flutter devices`<br>
-
-//清理开发缓存
-`flutter clean<br>
-删除 .gradle<br>
-flutter pub cache clean`<br>
 
 ---
 ## win10 安装依赖环境
@@ -46,19 +42,18 @@ start ms-settings:developers // win10 打开开发人员模式<br>
 // how to build fluttychat
 https://gitlab.com/famedly/fluffychat/-/wikis/How-To-Build<br>
 
-### 开发
+---
+## 开发
 
 vscode 安装 flutter 插件 + 代理 + 设备（笔记本/电脑）开发者模式<br>
 
----
-## 基础知识
+// 查看设备<br>
+`flutter devices`<br>
 
-### dart
-[从 javascript 到 dart](https://dart.cn/guides/language/coming-from/js-to-dart)<br>
-
-
-### flutter
-
+//清理开发缓存<br>
+`flutter clean`<br>
+`删除 .gradle`<br>
+`flutter pub cache clean`<br>
 
 ---
 ## Assets
